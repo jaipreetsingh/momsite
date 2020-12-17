@@ -8,6 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
 
-[GHARONDA Ista](https://www.instagram.com/gharonda_cottage/)
-
 Let us get in touch!

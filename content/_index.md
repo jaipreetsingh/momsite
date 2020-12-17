@@ -1,5 +1,5 @@
 ---
-header_image: "images/sunset.jpeg"
-header_headline: "Gharonda"
-header_subheadline: "A Cabin in the Woods"
+header_headline: Jane Doe
+header_image: images/cover-image.jpg
+header_subheadline: Hi there , I am a Nutrition Coach & Chef Consultant
 ---

@@ -1,9 +1,13 @@
 ---
-title: "About Us"
+title: "About Me"
 weight: 3
 header_menu: true
 ---
 
-![Gharonda](images/postcard.jpeg)
+![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-Moorni welcomes you to a peaceful, picturesque hill station where life comes alive in nature's bossom. At an altitude of 1220 msl, King Bhupinder Singh named this serene hill after his queen Morni. The hill station intoxicates anybody with its scenic beauty and cool climate. It's quaint appeal lies in the untouched forest range and the abundance of migratory birds stopping over at the beautiful Tikkar Tal lake which lies at the bottom of the hill. The beautiful hillocks around are lined with cobbled roads, quaint shops, gabled houses and charming facades with scores of fragrant gardens and orchards
+##### Professionel Experience
+
+A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+
+In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
