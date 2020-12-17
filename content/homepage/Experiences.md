@@ -4,5 +4,5 @@ weight: 4
 header_menu: true
 ---
 
-{{< video "https://www.instagram.com/p/CIc3xRSHWnh/?utm_source=ig_web_copy_link" "my-5" >}}
+{{< video library="1" src="images/httvideo.mp4" controls="yes" >}}
 
