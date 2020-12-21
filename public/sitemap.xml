@@ -6,4 +6,12 @@
     <loc>https://gharonda.netlify.app/</loc>
   </url>
   
+  <url>
+    <loc>https://gharonda.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/tags/</loc>
+  </url>
+  
 </urlset>
