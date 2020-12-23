@@ -1,14 +1,6 @@
 {{ $paginator := .Paginate (where .Data.Pages "Section" "post") }}
 {{ partial "posts.html" . }}
 
-{{ define "header" }}
-<!-- Post Header -->
-<style type="text/css">
-    header.intro-header {
-        background-image: url('{{ if .Params.catimage }}{{ .Params.catimage | relURL }}{{ else }}{{ .Site.Params.header_image | relURL}}{{ end }}')
-    }
-</style>
-{{ end }}
 
 
 

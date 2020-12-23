@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gharonda.netlify.app/top/experiences/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gharonda.netlify.app/tags/1-bedroom/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
@@ -28,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://gharonda.netlify.app/content/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gharonda.netlify.app/categories/cottages/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gharonda.netlify.app/top/experiences/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://gharonda.netlify.app/content/top/leo/</loc>
+    <loc>https://gharonda.netlify.app/top/leo/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
