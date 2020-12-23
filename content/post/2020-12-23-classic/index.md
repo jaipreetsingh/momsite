@@ -8,5 +8,20 @@ tags:
   - 2-bedroom
 subtitle: ''
 description: ''
-image: 'img/cottage.jpeg'
+image: 'img/Cottage1/cottage.jpeg'
 ---
+
+{{< gallery dir="img/Cottage1" >}} {{< /gallery >}}
+
+---
+
+### Facilities
+
+---
+
+### Amenities
+
+---
+
+### Luxuries
+
