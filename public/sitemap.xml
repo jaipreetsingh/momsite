@@ -3,7 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gharonda.netlify.app/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gharonda.netlify.app/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/post/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/top/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/top/books/</loc>
   </url>
   
   <url>
@@ -11,7 +34,15 @@
   </url>
   
   <url>
+    <loc>https://gharonda.netlify.app/search/</loc>
+  </url>
+  
+  <url>
     <loc>https://gharonda.netlify.app/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/top/</loc>
   </url>
   
 </urlset>
