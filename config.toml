@@ -17,7 +17,8 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = ""
   description = "A Cottage in the WOODS!"
   keyword = ""
-  slogan = "A Cottage in the WOODS!"
+  slogan = "A Cottage in the WOoDS!"
+  favicon = "img/favicon.ico"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "GG"
