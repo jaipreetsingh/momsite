@@ -28,7 +28,27 @@
   </url>
   
   <url>
+    <loc>https://gharonda.netlify.app/content/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/categories/cottages/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/top/experiences/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gharonda.netlify.app/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gharonda.netlify.app/content/top/leo/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +63,7 @@
   </url>
   
   <url>
-    <loc>https://gharonda.netlify.app/categories/the-og/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gharonda.netlify.app/categories/wooden/</loc>
+    <loc>https://gharonda.netlify.app/top/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -67,10 +82,6 @@
   
   <url>
     <loc>https://gharonda.netlify.app/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gharonda.netlify.app/top/</loc>
   </url>
   
 </urlset>

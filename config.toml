@@ -34,7 +34,10 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_appId = ""
   algolia_indexName = ""
   algolia_apiKey = ""
+  
+  # TOC
   showtoc = false
+  catimage = "img/wild.jpeg"
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
@@ -101,9 +104,9 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
   
-  #[[params.addtional_menus]]
-  #title =  "BOOKS"
-  #href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "The OG DogEE"
+  href =  "/content/top/leo/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"

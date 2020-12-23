@@ -3,7 +3,7 @@ title: Classic 2-bedroom
 date: "2020-12-23"
 slug: []
 categories:
-  - The OG
+  - Cottages
 tags:
   - 2-bedroom
 subtitle: ''

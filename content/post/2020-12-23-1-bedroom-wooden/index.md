@@ -4,11 +4,25 @@ author: ~
 date: '2020-12-23'
 slug: []
 categories:
-  - Wooden
+  - Cottages
 tags:
   - 1-bedroom
 subtitle: ''
 description: ''
-image: ''
+image: 'img/woodencottage/design.jpeg'
 ---
-# Under Construction
+
+{{< gallery dir="img/woodencottage/" >}} {{< /gallery >}}
+
+---
+
+### Facilities
+
+---
+
+### Amenities
+
+---
+
+### Luxuries
+
