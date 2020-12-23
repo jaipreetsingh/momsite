@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The OG on Gharonda</title>
+    <link>https://gharonda.netlify.app/categories/the-og/</link>
+    <description>Recent content in The OG on Gharonda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://gharonda.netlify.app/categories/the-og/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classic 2-bedroom</title>
+      <link>https://gharonda.netlify.app/post/2020-12-23-classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gharonda.netlify.app/post/2020-12-23-classic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
