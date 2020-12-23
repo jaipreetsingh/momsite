@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Gharonda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gharonda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gharonda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-bedroom Wooden</title>
+      <link>https://gharonda.netlify.app/post/2020-12-23-1-bedroom-wooden/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gharonda.netlify.app/post/2020-12-23-1-bedroom-wooden/</guid>
+      <description>Under Construction </description>
+    </item>
+    
+    <item>
+      <title>Classic 2-bedroom</title>
+      <link>https://gharonda.netlify.app/post/2020-12-23-classic/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gharonda.netlify.app/post/2020-12-23-classic/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://gharonda.netlify.app/post/readme/</link>
@@ -14,15 +32,6 @@
       
       <guid>https://gharonda.netlify.app/post/readme/</guid>
       <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
-    </item>
-    
-    <item>
-      <title>Classic 2-bedroom</title>
-      <link>https://gharonda.netlify.app/post/2020-12-23-classic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gharonda.netlify.app/post/2020-12-23-classic/</guid>
-      <description></description>
     </item>
     
   </channel>
