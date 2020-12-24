@@ -23,6 +23,9 @@ home = ["HTML", "RSS", "Algolia"]
   image_404 = "img/404-bg.jpg"
   title_404 = "GG"
   omit_categories = false
+  
+  #googlemaps api key
+  googleMapsAPIKey = "AIzaSyDoB29lpvQJzeYxHd9aFu2STAAMAIPrq5c"
 
   # leancloud storage for page view counter
   page_view_conter = false 
