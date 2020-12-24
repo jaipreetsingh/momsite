@@ -8,7 +8,7 @@ layout: post
 ---
 
 # Waiting for you mail
-{{< figure src="img/email.jpg" height=400px width=400px link="mailto:gharondamorni@gmail.com" >}}
+{{< figure src="img/email.jpg" height=200px width=200px link="mailto:gharondamorni@gmail.com" >}}
 
 ---
 
