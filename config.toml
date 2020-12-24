@@ -116,7 +116,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title = "Experiences"
   href = "/top/experiences/"
-
+  [[params.addtional_menus]]
+  title = "Contact Us"
+  href = "/top/contact-us"
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
