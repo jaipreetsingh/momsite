@@ -28,9 +28,9 @@ home = ["HTML", "RSS", "Algolia"]
   googleMapsAPIKey = "AIzaSyDoB29lpvQJzeYxHd9aFu2STAAMAIPrq5c"
 
   # leancloud storage for page view counter
-  page_view_conter = false 
-  leancloud_app_id = ""
-  leancloud_app_key = ""
+  page_view_conter = true 
+  leancloud_app_id = "ypHFh3YQmpCsIgckAaD8pNrH-MdYXbMMI"
+  leancloud_app_key = "2Kadnqjz5Q9vf8peoy7faizo"
 
   # algolia site search
   algolia_search = false
@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "Algolia"]
   
   # TOC
   showtoc = false
-  catimage = "img/wild.jpeg"
+
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
