@@ -12,7 +12,7 @@ description: ''
 image: 'img/woodencottage/design.jpeg'
 ---
 
-{{< gallery dir="img/woodencottage/" />}} 
+{{< gallery dir="/img/woodencottage" />}} {{< load-photoswipe >}}
 
 ---
 
