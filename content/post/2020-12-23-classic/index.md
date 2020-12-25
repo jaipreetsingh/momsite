@@ -11,8 +11,8 @@ description: ''
 image: 'img/Cottage1/cottage.jpeg'
 ---
 
-{{< load-photoswipe >}}
-{{< gallery dir="img/Cottage1" >}} {{< /gallery >}}
+
+{{< gallery dir="img/Cottage1/" />}} {{< load-photoswipe >}}
 
 ---
 
