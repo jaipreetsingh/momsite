@@ -12,7 +12,7 @@ description: ''
 image: 'img/woodencottage/design.jpeg'
 ---
 
-{{< gallery dir="/content/post/2020-12-23-1-bedroom-wooden/woodencottage/" />}} {{< load-photoswipe >}}
+{{< gallery dir="img/woodencottage/" />}} 
 
 ---
 
