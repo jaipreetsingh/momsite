@@ -17,20 +17,5 @@
       Facilities  Amenities  Luxuries </description>
     </item>
     
-    <item>
-      <title>Classic 2-bedroom</title>
-      <link>https://gharonda.netlify.app/post/2020-12-23-classic/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gharonda.netlify.app/post/2020-12-23-classic/</guid>
-      <description>Bathroom1
-      Bathroom2
-      Bedroom1
-      Bedroom2
-      Cottage
-      Groundfloor
-      Hall</description>
-    </item>
-    
   </channel>
 </rss>
