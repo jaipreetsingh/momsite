@@ -12,7 +12,7 @@ image: 'img/Cottage1/cottage.jpeg'
 ---
 
 
-{{< gallery dir="img/Cottage1/" />}} {{< load-photoswipe >}}
+{{< gallery dir="img/Cottage1" />}}` {{< load-photoswipe >}}
 
 ---
 
