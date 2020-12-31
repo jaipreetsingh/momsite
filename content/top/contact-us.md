@@ -13,7 +13,7 @@ layout: post
 ---
 
 # Location
-{{< google-maps-location location="Panchkula - Badiyal Rd, Bhoj Nagal, Haryana 134205, India" height="600">}}
+{{< google-maps-location location="Gharonda Cottage, Panchkula - Badiyal Road, Bhoj Nagal, Haryana, India" height="400" width="400">}}
 
 ---
 
