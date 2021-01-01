@@ -1,4 +1,4 @@
-baseurl = "https://gharonda.netlify.app//"
+baseurl = "https://gharonda.netlify.app/"
 title = "Gharonda"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"

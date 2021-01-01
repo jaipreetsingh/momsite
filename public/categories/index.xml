@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gharonda</title>
-    <link>https://gharonda.netlify.app//categories/</link>
+    <link>https://gharonda.netlify.app/categories/</link>
     <description>Recent content in Categories on Gharonda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gharonda.netlify.app//categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gharonda.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cottages</title>
-      <link>https://gharonda.netlify.app//categories/cottages/</link>
+      <link>https://gharonda.netlify.app/categories/cottages/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gharonda.netlify.app//categories/cottages/</guid>
+      <guid>https://gharonda.netlify.app/categories/cottages/</guid>
       <description></description>
     </item>
     
