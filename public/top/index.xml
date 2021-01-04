@@ -8,21 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gharonda.netlify.app/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Experiences</title>
-      <link>https://gharonda.netlify.app/top/experiences/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gharonda.netlify.app/top/experiences/</guid>
-      <description>Drone Shots   </description>
-    </item>
-    
-    <item>
       <title>Leo - The OG DogE</title>
       <link>https://gharonda.netlify.app/top/leo/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gharonda.netlify.app/top/leo/</guid>
-      <description>Lets Go to gharonda ma   </description>
+      <description>I R GOOD BOY!      Lets Go to gharonda ma   </description>
     </item>
     
     <item>
@@ -36,12 +27,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://gharonda.netlify.app/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gharonda.netlify.app/top/about/</guid>
-      <description>About US Who are we? </description>
+      <description></description>
     </item>
     
   </channel>

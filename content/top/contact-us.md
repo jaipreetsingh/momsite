@@ -2,9 +2,8 @@
 title:       "Contact Us"
 subtitle:    ""
 description: ""
-date:        2018-06-04
+date:        "2018-06-04"
 image:       "img/contact-us.jpg"
-layout: post
 ---
 
 # Waiting for you mail
