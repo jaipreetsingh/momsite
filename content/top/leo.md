@@ -8,7 +8,8 @@ layout: top
 
 # I R GOOD BOY!
 
-{{< figure src="img/leo/dogg.jpeg" height=500px width=500px >}} 
+{{< load-photoswipe >}}
+{{< gallery dir="/img/leo" />}}
 
 ---
 
