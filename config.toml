@@ -21,8 +21,8 @@ home = "HTML"
   slogan = "A Cottage in the WOoDS!"
   favicon = "img/favicon.ico"
 
-  image_404 = "img/404-bg.jpg"
-  title_404 = "GG"
+  image_404 = "img/leo/dogg.jpeg"
+  title_404 = "RUFF RRERROR RUFF"
   omit_categories = false
   
   #googlemaps api key
