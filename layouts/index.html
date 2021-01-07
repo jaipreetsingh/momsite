@@ -1,11 +1,11 @@
 {{ define "main" }}
 <br><center><h1>Views</h1>
-{{ $.Scratch.Add "width" "1000px" }}
-{{ $.Scratch.Add "height" "600px" }}
+{{ $.Scratch.Add "width" "500px" }}
+{{ $.Scratch.Add "height" "400px" }}
 {{ $.Scratch.Add "auto-slide" "0" }}
 
-{{ $.Scratch.Add "arrow-left" "fa-chevron-left" }}
-{{ $.Scratch.Add "arrow-right" "fa-chevron-right" }}
+{{ $.Scratch.Add "arrow-left" "fa-arrow-circle-o-left" }}
+{{ $.Scratch.Add "arrow-right" "fa-arrow-circle-o-right" }}
 
 {{ if ne "true" }}
     <!-- FontAwesome -->
@@ -175,5 +175,6 @@ sliderJQuery(function( $ ) {
     {{- end }}
 });
 </script></center>
+<br>
   {{ partial "portfolio.html" . }}
 {{ end }}
