@@ -1,7 +1,7 @@
 {{ define "main" }}
 <br><center><h1>Views</h1>
-{{ $.Scratch.Add "width" "300px" }}
-{{ $.Scratch.Add "height" "400px" }}
+{{ $.Scratch.Add "width" "1000px" }}
+{{ $.Scratch.Add "height" "600px" }}
 {{ $.Scratch.Add "auto-slide" "0" }}
 
 {{ $.Scratch.Add "arrow-left" "fa-arrow-circle-o-left" }}
@@ -176,5 +176,5 @@ sliderJQuery(function( $ ) {
 });
 </script></center>
 <br>
-  {{ partial "portfolio.html" . }}
+  {{ partial "post_list.html" . }}
 {{ end }}
