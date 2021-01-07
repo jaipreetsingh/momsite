@@ -15,6 +15,7 @@ home = "HTML"
 
 [params]
   header_image = "img/views/sunset.jpeg"
+  title = "Gharonda"
   SEOTitle = ""
   description = "A Cottage in the WOODS!"
   keyword = ""

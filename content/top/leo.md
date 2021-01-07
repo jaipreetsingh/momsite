@@ -8,8 +8,7 @@ layout: top
 
 # I R GOOD BOY!
 
-{{< load-photoswipe >}}
-{{< gallery dir="/img/leo" />}}
+{{< gallery-slider dir="/img/leo" >}}
 
 ---
 
