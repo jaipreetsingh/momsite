@@ -1,12 +1,12 @@
 ---
 title:       "Contact Us"
-subtitle:    ""
+subtitle:    "Boom"
 description: ""
 date:        "2018-06-04"
 image:       "img/contact-us.jpg"
 ---
 
-# Waiting for you mail
+# Boom for you mail
 {{< figure src="img/email.jpg" height=400px width=400px link="mailto:gharondamorni@gmail.com" >}}
 
 ---
