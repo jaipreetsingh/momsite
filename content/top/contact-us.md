@@ -1,6 +1,6 @@
 ---
 title:       "Contact Us"
-subtitle:    ""
+subtitle:    "Boom"
 description: ""
 date:        "2018-06-04"
 image:       "img/contact-us.jpg"
